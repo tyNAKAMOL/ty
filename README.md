@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nakamol Saeheng <TY></h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tynakamol" alt="tynakamol" /></a> </p>
-
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tynakamol" alt="tynakamol" /></a> </p>
+ -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/nakamol saeheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nakamol saeheng" height="30" width="40" /></a>
