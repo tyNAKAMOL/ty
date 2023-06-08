@@ -28,8 +28,8 @@
 </div>
 
 <div>
-:hammer_and_wrench: Programming Languages :
   <div>
+:hammer_and_wrench: Programming Languages :
     
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" title="java" width="40" height="40"/>&nbsp;
