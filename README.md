@@ -62,6 +62,7 @@
     </div>
  <div>
 :fire: My Stats :
+   [![GitHub Streak](https://streak-stats.demolab.com?user=tyNAKAMOL&theme=dark&mode=weekly)](https://git.io/streak-stats)
    </div>
 
 </div>
