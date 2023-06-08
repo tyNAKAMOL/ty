@@ -60,7 +60,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="Postgres" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB"  width="40" height="40"/>&nbsp;
     </div>
-    
+ <div>
 :fire: My Stats :
+   </div>
 
 </div>
