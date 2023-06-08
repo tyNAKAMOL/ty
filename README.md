@@ -60,8 +60,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="Postgres" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB"  width="40" height="40"/>&nbsp;
     </div>
+      :fire: My Stats :
  <div>
-:fire: My Stats :
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tyNAKAMOL&theme=dark&mode=weekly" alt="tynakamol" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyNAKAMOL&layout=compact&theme=vision-friendly-dark" alt="tynakamol" />
    </div>
