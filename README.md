@@ -49,7 +49,7 @@
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python"  width="40" height="40"/>&nbsp;
     </div>
     
-     <div>
+ 
 :hammer_and_wrench: Database :
     <div style="padding-top: 50px;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" width="40" height="40"/>&nbsp;
