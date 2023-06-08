@@ -39,7 +39,7 @@ Programming Languages :
     
 
 </div>
-  <div>
+  
 
 Data tools :
     <div style="padding-top: 50px;">
@@ -60,5 +60,5 @@ Database :
     </div>
     
 
-</div>
+
 </div>
