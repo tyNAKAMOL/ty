@@ -15,10 +15,10 @@
 </div>
   <h1>
   Hi , I'm Nakamol Saeheng
-  <h4>
-    I'm a computer engineering student at KMITL. I'm interested in Data engineer, Database System.
+  <h3>
+    I'm a computer engineering student at KMITL. I'm interested in Data engineer, Database System./n
     I am looking for an opportunity to unleash my skill which could assist the company.
-  </h4>
+  </h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div align="center">
