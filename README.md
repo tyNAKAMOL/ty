@@ -44,8 +44,8 @@
 :hammer_and_wrench: Data tools :
     <div style="padding-top: 50px;">
   <img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" width="40" height="40"/>&nbsp;
-  <img src="https://ia601703.us.archive.org/32/items/github.com-dagster-io-dagster_-_2021-01-15_03-10-03/cover.jpg" title="dagster" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript"  width="40" height="40"/>&nbsp;
+  <img src="https://ia601703.us.archive.org/32/items/github.com-dagster-io-dagster_-_2021-01-15_03-10-03/cover.jpg" title="Dagster" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Spark"  width="40" height="40"/>&nbsp;
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python"  width="40" height="40"/>&nbsp;
     </div>
     
