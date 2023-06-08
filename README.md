@@ -50,7 +50,6 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker"  width="40" height="40"/>&nbsp;
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver"  width="40" height="40"/>&nbsp;
    
-    </div>
     
  
 :hammer_and_wrench: Database :
