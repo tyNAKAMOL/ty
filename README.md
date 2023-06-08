@@ -40,7 +40,7 @@
 
 </div>
   <div>
-  <div>
+
 :hammer_and_wrench: Data tools :
     <div style="padding-top: 50px;">
   <img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" width="40" height="40"/>&nbsp;
