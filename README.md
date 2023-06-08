@@ -31,7 +31,7 @@
   
   
   
-<h4>Programming Languages </h4>
+<h4 style="color: blue;" >Programming Languages </h4>
     <div style="padding-top: 50px;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" title="java" width="40" height="40"/>&nbsp;
