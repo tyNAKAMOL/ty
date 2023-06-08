@@ -46,7 +46,13 @@
   <img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://ia601703.us.archive.org/32/items/github.com-dagster-io-dagster_-_2021-01-15_03-10-03/cover.jpg" title="Dagster" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Spark"  width="40" height="40"/>&nbsp;
-    
+    <div style="display:none">
+		{% include icons/icons.svg %}
+		{% include icons/glyphs.svg %}
+		{% include icons/logo.svg %}
+		{% include icons/dbt-logo-full.svg %}
+		{% include icons/dbt-logo-full-white.svg %}
+	</div>
     </div>
     
  
