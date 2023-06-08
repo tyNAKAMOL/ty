@@ -31,7 +31,7 @@
   
   
   
-<h4 style="color: blue;" >Programming Languages </h4>
+<h4>Programming Languages </h4>
     <div style="padding-top: 50px;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" title="java" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@
 
   
 
-Data tools 
+<h4>Data tools </h4>
     <div style="padding-top: 50px;">
   <img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://ia601703.us.archive.org/32/items/github.com-dagster-io-dagster_-_2021-01-15_03-10-03/cover.jpg" title="Dagster" width="40" height="40"/>&nbsp;
@@ -54,7 +54,7 @@ Data tools
    
     
  
-Database 
+<h4>Database</h4> 
     <div style="padding-top: 50px;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="Postgres" width="40" height="40"/>&nbsp;
