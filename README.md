@@ -52,10 +52,9 @@
  
 :hammer_and_wrench: Database :
     <div style="padding-top: 50px;">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" title="java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript"  width="40" height="40"/>&nbsp;
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python"  width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="Postgres" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB"  width="40" height="40"/>&nbsp;
     </div>
     
 
