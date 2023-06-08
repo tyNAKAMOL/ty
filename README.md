@@ -28,7 +28,9 @@
 </div>
 
 <div>
-  <div>
+  
+  
+  
 Programming Languages :
     <div style="padding-top: 50px;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" width="40" height="40"/>&nbsp;
@@ -38,7 +40,7 @@ Programming Languages :
     </div>
     
 
-</div>
+
   
 
 Data tools :
